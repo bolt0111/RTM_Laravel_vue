@@ -262,5 +262,3 @@ We keep a [CHANGELOG](CHANGELOG.md) with the information that has changed.
 
 <br>
 
-## Copyright and license
-Copyright 2018 [Bruno Torrinha](https://torrinha.com). Mercurius is released under the [MIT License](LICENSE).
